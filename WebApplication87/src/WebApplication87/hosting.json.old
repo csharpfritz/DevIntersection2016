@@ -1,0 +1,4 @@
+﻿{
+  "urls": "http://localhost:8021",
+  "environment":  "Staging"
+}

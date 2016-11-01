@@ -1,0 +1,8 @@
+﻿@model IEnumerable<ViewComponentDemo.Models.Trip>
+
+<ul>
+  @foreach (var trip in Model)
+  {
+    <li>@trip.Destination</li>
+  }
+</ul>
